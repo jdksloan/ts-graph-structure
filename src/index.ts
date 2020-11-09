@@ -1,6 +1,4 @@
-import { IProcess } from './data/interfaces/IProcess';
-import { Node } from './data/Node';
-import { Queue } from './data/Queue';
-import { Graph } from './data/Graph';
-
-export { IProcess, Node, Queue, Graph };
+export { IProcess } from './data/interfaces/IProcess';
+export { Node } from './data/Node';
+export { Queue } from './data/Queue';
+export { Graph } from './data/Graph';
